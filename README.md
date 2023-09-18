@@ -1,0 +1,2 @@
+# MultipleLanguageDetectionTool
+Minor Project
